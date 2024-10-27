@@ -1,0 +1,7 @@
+openzeppelin-upgrades/=lib/openzeppelin-contracts-upgradeable/contracts/
+openzeppelin/=lib/openzeppelin-contracts/contracts/
+eigenlayer-middleware/=lib/eigenlayer-middleware/src/
+eigenlayer-core/=lib/eigenlayer-contracts/src/
+eigenlayer-scripts/=lib/eigenlayer-contracts/script/
+forge-std/=lib/forge-std/src/
+relic-sdk/=lib/relic-sdk/
